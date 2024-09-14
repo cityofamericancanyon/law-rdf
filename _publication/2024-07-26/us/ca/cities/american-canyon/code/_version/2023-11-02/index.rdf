@@ -1,0 +1,348 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="./_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-07-26</dcterms:available>
+    <dcterms:creator xml:lang="en">City of American Canyon, California</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="./_publication/2024-07-26//us/ca/cities/american-canyon/code"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title 1 GENERAL PROVISIONS(§§ 1.01.010 – 1.28.070)
+Title 2 ADMINISTRATION AND PERSONNEL(§§ 2.02.010 – 2.64.020)
+Title 3 REVENUE AND FINANCE(§§ 3.04.010 – 3.28.030)
+Title 4 REAL PROPERTY(§§ 4.04.010 – 4.06.160)
+Title 5 BUSINESS LICENSES AND REGULATIONS(§§ 5.01.010 – 5.70.130)
+Title 6 ANIMALS(§§ 6.04.010 – 6.13.050)
+Title 7 RESERVED
+Title 8 HEALTH AND SAFETY(§§ 8.02.010 – 8.20.140)
+Title 9 PUBLIC PEACE, MORALS AND WELFARE(§§ 9.04.010 – 9.12.130)
+Title 10 VEHICLES AND TRAFFIC(§§ 10.04.010 – 10.60.010)
+Title 11 RESERVED
+Title 12 STREETS, SIDEWALKS AND PUBLIC PLACES(§§ 12.04.010 – 12.08.050)
+Title 13 WATER SERVICE SYSTEM(§§ 13.04.010 – 13.14.140)
+Title 14 SEWER AND SANITATION SERVICES(§§ 14.04.005 – 14.28.200)
+Title 15 PUBLIC SERVICES—OTHER(§§ 15.04.010 – 15.12.130)
+Title 16 BUILDING AND CONSTRUCTION CODES(§§ 16.01.010 – 16.18.020)
+Title 17 RESERVED
+Title 18 SUBDIVISIONS(§§ 18.02.010 – 18.44.060)
+Title 19 ZONING(§§ 19.01.010 – 19.53.120)
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">City of American Canyon Municipal Code.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2024-07-26/2023-11-02]: City of American Canyon, Cal., Code</rdfs:label>
+    <oll:codifiedDate>2023-11-02</oll:codifiedDate>
+    <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-11-02</oll:dateCurrentThrough>
+    <oll:docId>City of American Canyon, Cal., Code</oll:docId>
+    <oll:hasChanges rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/_changes"/>
+    <oll:isPartOfPublication rdf:resource="./_publication/2024-07-26"/>
+    <oll:lastCodifiedDocument rdf:resource="None/_publication/2024-07-26/us/ca/cities/american-canyon/ordinances/2023/9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12">
+    <oll:cite xml:lang="en">Chapter 3.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.010">
+    <oll:cite xml:lang="en">Section 3.12.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.020">
+    <oll:cite xml:lang="en">Section 3.12.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.030">
+    <oll:cite xml:lang="en">Section 3.12.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.040">
+    <oll:cite xml:lang="en">Section 3.12.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.050">
+    <oll:cite xml:lang="en">Section 3.12.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.060">
+    <oll:cite xml:lang="en">Section 3.12.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.070">
+    <oll:cite xml:lang="en">Section 3.12.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.080">
+    <oll:cite xml:lang="en">Section 3.12.080</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.080|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.080</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.090">
+    <oll:cite xml:lang="en">Section 3.12.090</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.090|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.090</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.100">
+    <oll:cite xml:lang="en">Section 3.12.100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.110">
+    <oll:cite xml:lang="en">Section 3.12.110</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.110|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.110</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.120">
+    <oll:cite xml:lang="en">Section 3.12.120</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.120|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.120</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.130">
+    <oll:cite xml:lang="en">Section 3.12.130</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.130|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.130</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.140">
+    <oll:cite xml:lang="en">Section 3.12.140</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.140|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.140</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.150">
+    <oll:cite xml:lang="en">Section 3.12.150</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.150|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.150</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.160">
+    <oll:cite xml:lang="en">Section 3.12.160</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.160|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.160</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.170">
+    <oll:cite xml:lang="en">Section 3.12.170</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.170|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.170</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.175">
+    <oll:cite xml:lang="en">Section 3.12.175</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.175|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.175</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.180">
+    <oll:cite xml:lang="en">Section 3.12.180</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.180|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.180</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.190">
+    <oll:cite xml:lang="en">Section 3.12.190</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.190|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.190</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.200">
+    <oll:cite xml:lang="en">Section 3.12.200</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.200|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.200</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.210">
+    <oll:cite xml:lang="en">Section 3.12.210</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.210|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.210</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.215">
+    <oll:cite xml:lang="en">Section 3.12.215</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.215|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.215</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.230">
+    <oll:cite xml:lang="en">Section 3.12.230</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.230|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.230</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.240">
+    <oll:cite xml:lang="en">Section 3.12.240</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.240|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.240</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.250">
+    <oll:cite xml:lang="en">Section 3.12.250</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.250|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.250</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.260">
+    <oll:cite xml:lang="en">Section 3.12.260</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.260|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.260</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.270">
+    <oll:cite xml:lang="en">Section 3.12.270</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.270|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.270</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.275">
+    <oll:cite xml:lang="en">Section 3.12.275</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.275|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.275</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.280">
+    <oll:cite xml:lang="en">Section 3.12.280</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.280|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.280</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.300">
+    <oll:cite xml:lang="en">Section 3.12.300</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.300|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.300</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.310">
+    <oll:cite xml:lang="en">Section 3.12.310</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.310|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.310</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.320">
+    <oll:cite xml:lang="en">Section 3.12.320</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|3|3.12|3.12.320|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/3.12.320</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/_changes">
+    <rdf:_10 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.090"/>
+    <rdf:_11 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.100"/>
+    <rdf:_12 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.110"/>
+    <rdf:_13 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.120"/>
+    <rdf:_14 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.130"/>
+    <rdf:_15 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.140"/>
+    <rdf:_16 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.150"/>
+    <rdf:_17 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.160"/>
+    <rdf:_18 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.170"/>
+    <rdf:_19 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.175"/>
+    <rdf:_1 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12"/>
+    <rdf:_20 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.180"/>
+    <rdf:_21 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.190"/>
+    <rdf:_22 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.200"/>
+    <rdf:_23 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.210"/>
+    <rdf:_24 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.215"/>
+    <rdf:_25 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.230"/>
+    <rdf:_26 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.240"/>
+    <rdf:_27 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.250"/>
+    <rdf:_28 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.260"/>
+    <rdf:_29 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.270"/>
+    <rdf:_2 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.010"/>
+    <rdf:_30 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.275"/>
+    <rdf:_31 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.280"/>
+    <rdf:_32 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.300"/>
+    <rdf:_33 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.310"/>
+    <rdf:_34 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.320"/>
+    <rdf:_3 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.020"/>
+    <rdf:_4 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.030"/>
+    <rdf:_5 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.040"/>
+    <rdf:_6 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.050"/>
+    <rdf:_7 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.060"/>
+    <rdf:_8 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.070"/>
+    <rdf:_9 rdf:resource="_publication/2024-07-26/_date/2023-11-02/us/ca/cities/american-canyon/code/3.12.080"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

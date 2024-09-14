@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|8.19",
+      "ptag": "container",
+      "cite": "Chapter 8.19",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/8.19",
+      "doc_mpath": "City of American Canyon, Cal., Code|8|8.19|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|8.19.010",
+      "ptag": "section",
+      "cite": "Section 8.19.010",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/8.19.010",
+      "doc_mpath": "City of American Canyon, Cal., Code|8|8.19|8.19.010|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|8.19.020",
+      "ptag": "section",
+      "cite": "Section 8.19.020",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/8.19.020",
+      "doc_mpath": "City of American Canyon, Cal., Code|8|8.19|8.19.020|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|8.19.030",
+      "ptag": "section",
+      "cite": "Section 8.19.030",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/8.19.030",
+      "doc_mpath": "City of American Canyon, Cal., Code|8|8.19|8.19.030|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2023-06",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2023/6",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2023-06|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2023|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2023-07-31",
+  "codified_date": "2023-07-06",
+  "reasons": {
+    "City of American Canyon, Cal., Ord. No. 2023-06": [
+      "effective"
+    ]
+  }
+}

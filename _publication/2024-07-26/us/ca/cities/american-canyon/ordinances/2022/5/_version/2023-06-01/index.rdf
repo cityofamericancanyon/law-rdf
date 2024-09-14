@@ -1,0 +1,742 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="./_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-07-26</dcterms:available>
+    <dcterms:creator xml:lang="en">City of American Canyon, California</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="us/ca/cities/american-canyon/ordinances/2022/5/us/ca/cities/american-canyon/ordinances/2022/adopted/2022-05.pdf"/>
+    <dcterms:isVersionOf rdf:resource="./_publication/2024-07-26//us/ca/cities/american-canyon/ordinances/2022/5"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Ord. No. 2022-05. AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON REPEALING CHAPTERS 16.01 THROUGH 16.09 AND 16.13 OF THE CITY OF AMERICAN CANYON MUNICIPAL CODE AND ALL OTHER CONFLICTING ORDINANCES AND PARTS OF ORDINANCES AND ADOPTING BY REFERENCE THE 2022 EDITIONS OF THE CALIFORNIA CODE OF REGULATIONS TITLE 24 AND RELATED MODEL CODES WITH APPENDICES AND AMENDMENTS AS IDENTIFIED HEREIN THROUGH EXPRESS FINDINGS OF LOCAL NECESSITY.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
+    <rdfs:label xml:lang="en">[2024-07-26/2023-06-01]: City of American Canyon, Cal., Ord. No. 2022-05</rdfs:label>
+    <oll:codifiedDate>2023-06-01</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-01-01</oll:dateEffective>
+    <oll:docId>City of American Canyon, Cal., Ord. No. 2022-05</oll:docId>
+    <oll:hasChanges rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5/_changes"/>
+    <oll:isPartOfPublication rdf:resource="./_publication/2024-07-26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5">
+    <oll:cite xml:lang="en"/>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#6">
+    <oll:cite xml:lang="en">Section 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#7">
+    <oll:cite xml:lang="en">Section 7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#8">
+    <oll:cite xml:lang="en">Section 8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/B">
+    <oll:cite xml:lang="en">Exhibit B</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|B|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/B</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/B/16.02.040">
+    <oll:cite xml:lang="en">Section 16.02.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|B|16.02.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/B/16.02.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a">
+    <oll:cite xml:lang="en">Exhibit A</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02">
+    <oll:cite xml:lang="en">Chapter 16.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.010">
+    <oll:cite xml:lang="en">Section 16.02.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.020">
+    <oll:cite xml:lang="en">Section 16.02.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.030">
+    <oll:cite xml:lang="en">Section 16.02.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.040">
+    <oll:cite xml:lang="en">Section 16.02.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.060">
+    <oll:cite xml:lang="en">Section 16.02.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.070">
+    <oll:cite xml:lang="en">Section 16.02.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.080">
+    <oll:cite xml:lang="en">Section 16.02.080</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.080|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.080</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.090">
+    <oll:cite xml:lang="en">Section 16.02.090</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.090|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.090</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.095">
+    <oll:cite xml:lang="en">Section 16.02.095</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.095|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.095</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.100">
+    <oll:cite xml:lang="en">Section 16.02.100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.110">
+    <oll:cite xml:lang="en">Section 16.02.110</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.110|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.110</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.120">
+    <oll:cite xml:lang="en">Section 16.02.120</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.120|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.120</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.130">
+    <oll:cite xml:lang="en">Section 16.02.130</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.130|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.130</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.140">
+    <oll:cite xml:lang="en">Section 16.02.140</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.140|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.140</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.150">
+    <oll:cite xml:lang="en">Section 16.02.150</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.150|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.150</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.160">
+    <oll:cite xml:lang="en">Section 16.02.160</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.160|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.160</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.180">
+    <oll:cite xml:lang="en">Section 16.02.180</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.180|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.180</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.190">
+    <oll:cite xml:lang="en">Section 16.02.190</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.190|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.190</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.210">
+    <oll:cite xml:lang="en">Section 16.02.210</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.210|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.210</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.220">
+    <oll:cite xml:lang="en">Section 16.02.220</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.220|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.220</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.260">
+    <oll:cite xml:lang="en">Section 16.02.260</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.02|16.02.260|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.260</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03">
+    <oll:cite xml:lang="en">Chapter 16.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.010">
+    <oll:cite xml:lang="en">Section 16.03.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.03|16.03.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.020">
+    <oll:cite xml:lang="en">Section 16.03.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.03|16.03.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.030">
+    <oll:cite xml:lang="en">Section 16.03.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.03|16.03.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.040">
+    <oll:cite xml:lang="en">Section 16.03.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.03|16.03.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.045">
+    <oll:cite xml:lang="en">Section 16.03.045</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.03|16.03.045|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.045</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.050">
+    <oll:cite xml:lang="en">Section 16.03.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.03|16.03.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.060">
+    <oll:cite xml:lang="en">Section 16.03.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.03|16.03.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.065">
+    <oll:cite xml:lang="en">Section 16.03.065</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.03|16.03.065|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.065</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.070">
+    <oll:cite xml:lang="en">Section 16.03.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.03|16.03.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.080">
+    <oll:cite xml:lang="en">Section 16.03.080</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.03|16.03.080|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.080</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.090">
+    <oll:cite xml:lang="en">Section 16.03.090</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.03|16.03.090|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.090</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.04">
+    <oll:cite xml:lang="en">Chapter 16.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.04/16.04.010">
+    <oll:cite xml:lang="en">Section 16.04.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.04|16.04.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.04/16.04.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.04/16.04.020">
+    <oll:cite xml:lang="en">Section 16.04.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.04|16.04.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.04/16.04.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.05">
+    <oll:cite xml:lang="en">Chapter 16.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.05/16.05.010">
+    <oll:cite xml:lang="en">Section 16.05.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.05|16.05.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.05/16.05.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.05/16.05.020">
+    <oll:cite xml:lang="en">Section 16.05.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.05|16.05.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.05/16.05.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.06">
+    <oll:cite xml:lang="en">Chapter 16.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.06/16.06.010">
+    <oll:cite xml:lang="en">Section 16.06.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.06|16.06.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.06/16.06.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.06/16.06.020">
+    <oll:cite xml:lang="en">Section 16.06.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.06|16.06.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.06/16.06.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.06/16.06.030">
+    <oll:cite xml:lang="en">Section 16.06.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.06|16.06.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.06/16.06.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.06/16.06.040">
+    <oll:cite xml:lang="en">Section 16.06.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.06|16.06.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.06/16.06.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.07">
+    <oll:cite xml:lang="en">Chapter 16.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.07/16.07.010">
+    <oll:cite xml:lang="en">Section 16.07.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.07|16.07.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.07/16.07.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.07/16.07.020">
+    <oll:cite xml:lang="en">Section 16.07.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.07|16.07.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.07/16.07.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.08">
+    <oll:cite xml:lang="en">Chapter 16.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.08/16.08.010">
+    <oll:cite xml:lang="en">Section 16.08.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.08|16.08.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.08/16.08.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.08/16.08.020">
+    <oll:cite xml:lang="en">Section 16.08.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.08|16.08.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.08/16.08.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.09">
+    <oll:cite xml:lang="en">Chapter 16.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.09/16.09.010">
+    <oll:cite xml:lang="en">Section 16.09.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.09|16.09.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.09/16.09.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.09/16.09.020">
+    <oll:cite xml:lang="en">Section 16.09.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.09|16.09.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.09/16.09.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.11">
+    <oll:cite xml:lang="en">Chapter 16.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.11/16.11.010">
+    <oll:cite xml:lang="en">Section 16.11.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.11|16.11.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.11/16.11.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.11/16.11.020">
+    <oll:cite xml:lang="en">Section 16.11.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.11|16.11.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.11/16.11.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.13">
+    <oll:cite xml:lang="en">Chapter 16.13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.13/16.13.010">
+    <oll:cite xml:lang="en">Section 16.13.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.13|16.13.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.13/16.13.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.13/16.13.020">
+    <oll:cite xml:lang="en">Section 16.13.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.13|16.13.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.13/16.13.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.13/16.13.030">
+    <oll:cite xml:lang="en">Section 16.13.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.13|16.13.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.13/16.13.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15">
+    <oll:cite xml:lang="en">Chapter 16.15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.010">
+    <oll:cite xml:lang="en">Section 16.15.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.15|16.15.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.020">
+    <oll:cite xml:lang="en">Section 16.15.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.15|16.15.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.030">
+    <oll:cite xml:lang="en">Section 16.15.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.15|16.15.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.040">
+    <oll:cite xml:lang="en">Section 16.15.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.15|16.15.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.050">
+    <oll:cite xml:lang="en">Section 16.15.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.15|16.15.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.060">
+    <oll:cite xml:lang="en">Section 16.15.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.15|16.15.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.070">
+    <oll:cite xml:lang="en">Section 16.15.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.15|16.15.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.16">
+    <oll:cite xml:lang="en">Chapter 16.16</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.16|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.16</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.16/16.16.010">
+    <oll:cite xml:lang="en">Section 16.16.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.16|16.16.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.16/16.16.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.16/16.16.020">
+    <oll:cite xml:lang="en">Section 16.16.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.16|16.16.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.16/16.16.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.17">
+    <oll:cite xml:lang="en">Chapter 16.17</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.17|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.17</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.17/16.17.010">
+    <oll:cite xml:lang="en">Section 16.17.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.17|16.17.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.17/16.17.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.17/16.17.020">
+    <oll:cite xml:lang="en">Section 16.17.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.17|16.17.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.17/16.17.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.18">
+    <oll:cite xml:lang="en">Chapter 16.18</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.18|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.18</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.18/16.18.010">
+    <oll:cite xml:lang="en">Section 16.18.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.18|16.18.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.18/16.18.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.18/16.18.020">
+    <oll:cite xml:lang="en">Section 16.18.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-05|ex-a|16.18|16.18.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.18/16.18.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5/_changes">
+    <rdf:_10 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/B"/>
+    <rdf:_11 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/B/16.02.040"/>
+    <rdf:_12 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a"/>
+    <rdf:_13 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02"/>
+    <rdf:_14 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.010"/>
+    <rdf:_15 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.020"/>
+    <rdf:_16 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.030"/>
+    <rdf:_17 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.040"/>
+    <rdf:_18 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.060"/>
+    <rdf:_19 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.070"/>
+    <rdf:_1 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5"/>
+    <rdf:_20 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.080"/>
+    <rdf:_21 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.090"/>
+    <rdf:_22 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.095"/>
+    <rdf:_23 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.100"/>
+    <rdf:_24 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.110"/>
+    <rdf:_25 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.120"/>
+    <rdf:_26 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.130"/>
+    <rdf:_27 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.140"/>
+    <rdf:_28 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.150"/>
+    <rdf:_29 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.160"/>
+    <rdf:_2 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#1"/>
+    <rdf:_30 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.180"/>
+    <rdf:_31 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.190"/>
+    <rdf:_32 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.210"/>
+    <rdf:_33 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.220"/>
+    <rdf:_34 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.02/16.02.260"/>
+    <rdf:_35 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03"/>
+    <rdf:_36 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.010"/>
+    <rdf:_37 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.020"/>
+    <rdf:_38 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.030"/>
+    <rdf:_39 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.040"/>
+    <rdf:_3 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#2"/>
+    <rdf:_40 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.045"/>
+    <rdf:_41 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.050"/>
+    <rdf:_42 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.060"/>
+    <rdf:_43 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.065"/>
+    <rdf:_44 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.070"/>
+    <rdf:_45 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.080"/>
+    <rdf:_46 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.03/16.03.090"/>
+    <rdf:_47 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.04"/>
+    <rdf:_48 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.04/16.04.010"/>
+    <rdf:_49 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.04/16.04.020"/>
+    <rdf:_4 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#3"/>
+    <rdf:_50 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.05"/>
+    <rdf:_51 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.05/16.05.010"/>
+    <rdf:_52 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.05/16.05.020"/>
+    <rdf:_53 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.06"/>
+    <rdf:_54 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.06/16.06.010"/>
+    <rdf:_55 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.06/16.06.020"/>
+    <rdf:_56 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.06/16.06.030"/>
+    <rdf:_57 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.06/16.06.040"/>
+    <rdf:_58 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.07"/>
+    <rdf:_59 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.07/16.07.010"/>
+    <rdf:_5 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#4"/>
+    <rdf:_60 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.07/16.07.020"/>
+    <rdf:_61 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.08"/>
+    <rdf:_62 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.08/16.08.010"/>
+    <rdf:_63 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.08/16.08.020"/>
+    <rdf:_64 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.09"/>
+    <rdf:_65 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.09/16.09.010"/>
+    <rdf:_66 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.09/16.09.020"/>
+    <rdf:_67 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.11"/>
+    <rdf:_68 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.11/16.11.010"/>
+    <rdf:_69 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.11/16.11.020"/>
+    <rdf:_6 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#5"/>
+    <rdf:_70 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.13"/>
+    <rdf:_71 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.13/16.13.010"/>
+    <rdf:_72 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.13/16.13.020"/>
+    <rdf:_73 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.13/16.13.030"/>
+    <rdf:_74 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15"/>
+    <rdf:_75 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.010"/>
+    <rdf:_76 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.020"/>
+    <rdf:_77 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.030"/>
+    <rdf:_78 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.040"/>
+    <rdf:_79 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.050"/>
+    <rdf:_7 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#6"/>
+    <rdf:_80 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.060"/>
+    <rdf:_81 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.15/16.15.070"/>
+    <rdf:_82 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.16"/>
+    <rdf:_83 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.16/16.16.010"/>
+    <rdf:_84 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.16/16.16.020"/>
+    <rdf:_85 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.17"/>
+    <rdf:_86 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.17/16.17.010"/>
+    <rdf:_87 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.17/16.17.020"/>
+    <rdf:_88 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.18"/>
+    <rdf:_89 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.18/16.18.010"/>
+    <rdf:_8 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#7"/>
+    <rdf:_90 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#attachments/ex-a/16.18/16.18.020"/>
+    <rdf:_9 rdf:resource="_publication/2024-07-26/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/5#8"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

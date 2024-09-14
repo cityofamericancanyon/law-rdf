@@ -1,0 +1,33 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="./_publication/2024-07-26/_date/2023-10-17/us/ca/cities/american-canyon/ordinances/2023/10">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-07-26</dcterms:available>
+    <dcterms:creator xml:lang="en">City of American Canyon, California</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="us/ca/cities/american-canyon/ordinances/2023/10/us/ca/cities/american-canyon/ordinances/2023/adopted/2023-10.pdf"/>
+    <dcterms:isVersionOf rdf:resource="./_publication/2024-07-26//us/ca/cities/american-canyon/ordinances/2023/10"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Ord. No. 2023-10. AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON TO INCREASE THE MONTHLY SALARY OF THE MEMBERS OF THE CITY COUNCIL.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
+    <rdfs:label xml:lang="en">[2024-07-26/2023-10-17]: City of American Canyon, Cal., Ord. No. 2023-10</rdfs:label>
+    <oll:buildReason xml:lang="en">created</oll:buildReason>
+    <oll:codifiedDate>2023-10-17</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-01-01</oll:dateEffective>
+    <oll:docId>City of American Canyon, Cal., Ord. No. 2023-10</oll:docId>
+    <oll:hasChanges rdf:resource="_publication/2024-07-26/_date/2023-10-17/us/ca/cities/american-canyon/ordinances/2023/10/_changes"/>
+    <oll:isPartOfPublication rdf:resource="./_publication/2024-07-26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-10-17/us/ca/cities/american-canyon/ordinances/2023/10">
+    <oll:cite xml:lang="en"/>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2023-10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2023/10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-10-17/us/ca/cities/american-canyon/ordinances/2023/10/_changes">
+    <rdf:_1 rdf:resource="_publication/2024-07-26/_date/2023-10-17/us/ca/cities/american-canyon/ordinances/2023/10"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,70 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="./_publication/2024-07-26/_date/2023-10-03/us/ca/cities/american-canyon/ordinances/2023/9">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-07-26</dcterms:available>
+    <dcterms:creator xml:lang="en">City of American Canyon, California</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="us/ca/cities/american-canyon/ordinances/2023/9/us/ca/cities/american-canyon/ordinances/2023/adopted/2023-09.pdf"/>
+    <dcterms:isVersionOf rdf:resource="./_publication/2024-07-26//us/ca/cities/american-canyon/ordinances/2023/9"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Ord. No. 2023-09. AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON, STATE OF CALIFORNIA, AMENDING TITLE 3 OF CITY OF AMERICAN CANYON MUNICIPAL CODE TO REMOVE CHAPTER 3.12 PURCHASING SYSTEM.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
+    <rdfs:label xml:lang="en">[2024-07-26/2023-10-03]: City of American Canyon, Cal., Ord. No. 2023-09</rdfs:label>
+    <oll:buildReason xml:lang="en">created</oll:buildReason>
+    <oll:codifiedDate>2023-10-03</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-11-02</oll:dateEffective>
+    <oll:docId>City of American Canyon, Cal., Ord. No. 2023-09</oll:docId>
+    <oll:hasChanges rdf:resource="_publication/2024-07-26/_date/2023-10-03/us/ca/cities/american-canyon/ordinances/2023/9/_changes"/>
+    <oll:isPartOfPublication rdf:resource="./_publication/2024-07-26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-10-03/us/ca/cities/american-canyon/ordinances/2023/9">
+    <oll:cite xml:lang="en"/>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2023-09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2023/9</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-10-03/us/ca/cities/american-canyon/ordinances/2023/9#1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2023-09|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2023/9#1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-10-03/us/ca/cities/american-canyon/ordinances/2023/9#2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2023-09|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2023/9#2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-10-03/us/ca/cities/american-canyon/ordinances/2023/9#3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2023-09|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2023/9#3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-10-03/us/ca/cities/american-canyon/ordinances/2023/9#4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2023-09|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2023/9#4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-10-03/us/ca/cities/american-canyon/ordinances/2023/9#5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2023-09|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2023/9#5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-07-26/_date/2023-10-03/us/ca/cities/american-canyon/ordinances/2023/9/_changes">
+    <rdf:_1 rdf:resource="_publication/2024-07-26/_date/2023-10-03/us/ca/cities/american-canyon/ordinances/2023/9"/>
+    <rdf:_2 rdf:resource="_publication/2024-07-26/_date/2023-10-03/us/ca/cities/american-canyon/ordinances/2023/9#1"/>
+    <rdf:_3 rdf:resource="_publication/2024-07-26/_date/2023-10-03/us/ca/cities/american-canyon/ordinances/2023/9#2"/>
+    <rdf:_4 rdf:resource="_publication/2024-07-26/_date/2023-10-03/us/ca/cities/american-canyon/ordinances/2023/9#3"/>
+    <rdf:_5 rdf:resource="_publication/2024-07-26/_date/2023-10-03/us/ca/cities/american-canyon/ordinances/2023/9#4"/>
+    <rdf:_6 rdf:resource="_publication/2024-07-26/_date/2023-10-03/us/ca/cities/american-canyon/ordinances/2023/9#5"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

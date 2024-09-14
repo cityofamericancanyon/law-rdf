@@ -1,0 +1,682 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2024",
+      "url": "/us/ca/cities/american-canyon/ordinances/2024",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "docs_changes": {
+        "City of American Canyon, Cal., Ord. No. 2024-01": "Element added",
+        "City of American Canyon, Cal., Ord. No. 2024-02": "Element added",
+        "City of American Canyon, Cal., Ord. No. 2024-03": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "\u00a71",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#1",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|1|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "Section 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#2",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|2|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "Section 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#3",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|3|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "Section 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#4",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|4|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "\u00a75",
+      "ptag": "section",
+      "cite": "Section 5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#5",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|5|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|A",
+      "ptag": "attachment",
+      "cite": "A",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/a",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|a|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B",
+      "ptag": "attachment",
+      "cite": "B",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.10",
+      "ptag": "container",
+      "cite": "Chapter 19.10",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.10",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.10|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.10|19.10.010",
+      "ptag": "section",
+      "cite": "Section 19.10.010",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.10/19.10.010",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.10|19.10.010|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.10|19.10.020",
+      "ptag": "section",
+      "cite": "Section 19.10.020",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.10/19.10.020",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.10|19.10.020|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.10|19.10.030",
+      "ptag": "section",
+      "cite": "Section 19.10.030",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.10/19.10.030",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.10|19.10.030|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.10|19.10.040",
+      "ptag": "section",
+      "cite": "Section 19.10.040",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.10/19.10.040",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.10|19.10.040|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.10|19.10.050",
+      "ptag": "section",
+      "cite": "Section 19.10.050",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.10/19.10.050",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.10|19.10.050|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.10|19.10.060",
+      "ptag": "section",
+      "cite": "Section 19.10.060",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.10/19.10.060",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.10|19.10.060|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.10|19.10.070",
+      "ptag": "section",
+      "cite": "Section 19.10.070",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.10/19.10.070",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.10|19.10.070|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.10|19.10.080",
+      "ptag": "section",
+      "cite": "Section 19.10.080",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.10/19.10.080",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.10|19.10.080|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.10|19.10.090",
+      "ptag": "section",
+      "cite": "Section 19.10.090",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.10/19.10.090",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.10|19.10.090|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.10|19.10.100",
+      "ptag": "section",
+      "cite": "Section 19.10.100",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.10/19.10.100",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.10|19.10.100|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.10|19.10.110",
+      "ptag": "section",
+      "cite": "Section 19.10.110",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.10/19.10.110",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.10|19.10.110|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.10|19.10.130",
+      "ptag": "section",
+      "cite": "Section 19.10.130",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.10/19.10.130",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.10|19.10.130|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.10|19.10.140",
+      "ptag": "section",
+      "cite": "Section 19.10.140",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.10/19.10.140",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.10|19.10.140|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.10|19.10.150",
+      "ptag": "section",
+      "cite": "Section 19.10.150",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.10/19.10.150",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.10|19.10.150|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.10|19.10.160",
+      "ptag": "section",
+      "cite": "Section 19.10.160",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.10/19.10.160",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.10|19.10.160|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.14",
+      "ptag": "container",
+      "cite": "Chapter 19.14",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.14",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.14|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.14|19.14.010",
+      "ptag": "section",
+      "cite": "Section 19.14.010",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.14/19.14.010",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.14|19.14.010|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.14|19.14.020",
+      "ptag": "section",
+      "cite": "Section 19.14.020",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.14/19.14.020",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.14|19.14.020|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.14|19.14.030",
+      "ptag": "section",
+      "cite": "Section 19.14.030",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.14/19.14.030",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.14|19.14.030|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.14|19.14.040",
+      "ptag": "section",
+      "cite": "Section 19.14.040",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.14/19.14.040",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.14|19.14.040|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.14|19.14.050",
+      "ptag": "section",
+      "cite": "Section 19.14.050",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.14/19.14.050",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.14|19.14.050|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.14|19.14.060",
+      "ptag": "section",
+      "cite": "Section 19.14.060",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.14/19.14.060",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.14|19.14.060|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.14|19.14.070",
+      "ptag": "section",
+      "cite": "Section 19.14.070",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.14/19.14.070",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.14|19.14.070|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.14|19.14.080",
+      "ptag": "section",
+      "cite": "Section 19.14.080",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.14/19.14.080",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.14|19.14.080|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.14|19.14.090",
+      "ptag": "section",
+      "cite": "Section 19.14.090",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.14/19.14.090",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.14|19.14.090|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.14|19.14.100",
+      "ptag": "section",
+      "cite": "Section 19.14.100",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.14/19.14.100",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.14|19.14.100|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.20",
+      "ptag": "container",
+      "cite": "Chapter 19.20",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.20",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.20|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.20|19.20.010",
+      "ptag": "section",
+      "cite": "Section 19.20.010",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.20/19.20.010",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.20|19.20.010|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-01",
+      "path": "attachments|B|19.20|19.20.020",
+      "ptag": "section",
+      "cite": "Section 19.20.020",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/1#attachments/b/19.20/19.20.020",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-01|b|19.20|19.20.020|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-02",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/2",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-02|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-02",
+      "path": "\u00a71",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/2#1",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-02|1|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-02",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "Section 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/2#2",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-02|2|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-02",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "Section 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/2#3",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-02|3|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-02",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "Section 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/2#4",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-02|4|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-03",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/3",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-03|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-03",
+      "path": "\u00a71",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/3#1",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-03|1|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-03",
+      "path": "\u00a719.09.010",
+      "ptag": "section",
+      "cite": "Section 19.09.010",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/3#19.09.010",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-03|chapter-1909-industrial-commerce-centers-sustainability-standards|19.09.010|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-03",
+      "path": "\u00a719.09.020",
+      "ptag": "section",
+      "cite": "Section 19.09.020",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/3#19.09.020",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-03|chapter-1909-industrial-commerce-centers-sustainability-standards|19.09.020|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-03",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "Section 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/3#2",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-03|2|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-03",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "Section 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/3#3",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-03|3|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2024-03",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "Section 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2024/3#4",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2024-03|4|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2024|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2024-07-26",
+  "codified_date": "2024-02-20",
+  "reasons": {
+    "City of American Canyon, Cal., Ord. No. 2024-01": [
+      "created"
+    ],
+    "City of American Canyon, Cal., Ord. No. 2024-02": [
+      "created"
+    ],
+    "City of American Canyon, Cal., Ord. No. 2024-03": [
+      "created"
+    ]
+  }
+}

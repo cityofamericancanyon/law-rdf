@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|2.04.060",
+      "ptag": "section",
+      "cite": "Section 2.04.060",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/2.04.060",
+      "doc_mpath": "City of American Canyon, Cal., Code|2|2.04|2.04.060|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2023-10",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2023/10",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2023-10|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2023|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2023-12-19",
+  "codified_date": "2024-01-01",
+  "reasons": {
+    "City of American Canyon, Cal., Ord. No. 2023-10": [
+      "effective"
+    ]
+  }
+}
