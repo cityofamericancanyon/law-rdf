@@ -1,0 +1,30 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="./_publication/2024-09-17/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/1996/96-06">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-17</dcterms:available>
+    <dcterms:creator xml:lang="en">City of American Canyon, California</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="us/ca/cities/american-canyon/ordinances/1996/96-06/us/ca/cities/american-canyon/ordinances/1996/adopted/96-06.pdf"/>
+    <dcterms:isVersionOf rdf:resource="./_publication/2024-09-17//us/ca/cities/american-canyon/ordinances/1996/96-06"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Ord. No. 96-06. AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON ADOPTING A NEW ZONING ORDINANCE IN ITS ENTIRETY INCLUDING INCORPORATION OF PREVIOUSLY ADOPTED CHAPTERS PERTAINING TO OFF-STREET PARKING; AREA, YARD AND HEIGHT; SIGNS AND PLANNED COMMUNITY; AND REPEALING SPECIFIC SECTIONS OF TITLES X AND XI AND ALL OF TITLE XII OF THE NAPA COUNTY CODE ADOPTED BY THE CITY UPON INCORPORATION; AND ADOPTION OF A NEW ZONING MAP ESTABLISHING THE DISTRIBUTION OF ZONING DISTRICTS CONTAINED IN THE NEW ZONING ORDINANCE.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
+    <rdfs:label xml:lang="en">[2024-09-17/2023-06-01]: City of American Canyon, Cal., Ord. No. 96-06</rdfs:label>
+    <oll:codifiedDate>2023-06-01</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-11-07</oll:dateEffective>
+    <oll:docId>City of American Canyon, Cal., Ord. No. 96-06</oll:docId>
+    <oll:hasChanges rdf:resource="_publication/2024-09-17/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/1996/96-06/_changes"/>
+    <oll:isPartOfPublication rdf:resource="./_publication/2024-09-17"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-09-17/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/1996/96-06">
+    <oll:cite xml:lang="en"/>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 96-06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/1996/96-06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-09-17/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/1996/96-06/_changes">
+    <rdf:_1 rdf:resource="_publication/2024-09-17/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/1996/96-06"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
