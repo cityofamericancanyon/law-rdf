@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2023",
+      "url": "/us/ca/cities/american-canyon/ordinances/2023",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2023|",
+      "docs_changes": {
+        "City of American Canyon, Cal., Ord. No. 2023-10": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2023-10",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2023/10",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2023-10|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2023|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2024-09-17",
+  "codified_date": "2023-10-17",
+  "reasons": {
+    "City of American Canyon, Cal., Ord. No. 2023-10": [
+      "created"
+    ]
+  }
+}
