@@ -1,30 +1,28 @@
 <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-  <rdf:Description rdf:about="./_publication/2024-09-17/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2012/2012-05">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2024-09-17/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2012/2012-05">
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-17</dcterms:available>
     <dcterms:creator xml:lang="en">City of American Canyon, California</dcterms:creator>
-    <dcterms:hasFormat rdf:resource="us/ca/cities/american-canyon/ordinances/2012/2012-05/us/ca/cities/american-canyon/ordinances/2012/adopted/2012-05.pdf"/>
-    <dcterms:isVersionOf rdf:resource="./_publication/2024-09-17//us/ca/cities/american-canyon/ordinances/2012/2012-05"/>
+    <dcterms:hasFormat rdf:resource="https://law.cityofamericancanyon.org/us/ca/cities/american-canyon/ordinances/2012/2012-05/us/ca/cities/american-canyon/ordinances/2012/adopted/2012-05.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-09-17/us/ca/cities/american-canyon/ordinances/2012/2012-05"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Ord. No. 2012-05. AN INTERIM URGENCY ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON, ENACTED PURSUANT TO CALIFORNIA GOVERNMENT CODE SECTION 65858 EXTENDING A 10 MONTH, 15 DAY MORATORIUM ON PAWN SHOPS AND PROHIBITING THE ISSUANCE OF PERMITS AND OTHER LAND USE ENTITLEMENTS THAT WOULD ALLOW THE ESTABLISHMENT OF PAWN SHOPS WITHIN THE CITY Of AMERICAN CANYON PENDING REVIEW AND POSSIBLE AMENDMENT OF ZONING REGULATIONS APPLICABLE TO SUCH BUSINESSES.</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
     <rdfs:label xml:lang="en">[2024-09-17/2023-06-01]: City of American Canyon, Cal., Ord. No. 2012-05</rdfs:label>
+    <oll:cite xml:lang="en"/>
     <oll:codifiedDate>2023-06-01</oll:codifiedDate>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-11-27</oll:dateEffective>
     <oll:docId>City of American Canyon, Cal., Ord. No. 2012-05</oll:docId>
-    <oll:hasChanges rdf:resource="_publication/2024-09-17/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2012/2012-05/_changes"/>
-    <oll:isPartOfPublication rdf:resource="./_publication/2024-09-17"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-09-17/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2012/2012-05">
-    <oll:cite xml:lang="en"/>
     <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2012-05|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-09-17/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2012/2012-05/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-09-17"/>
     <oll:ptag xml:lang="en">document</oll:ptag>
     <oll:status xml:lang="en">Element added</oll:status>
     <oll:status xml:lang="en">Element effective</oll:status>
     <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2012/2012-05</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-09-17/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2012/2012-05/_changes">
-    <rdf:_1 rdf:resource="_publication/2024-09-17/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2012/2012-05"/>
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2024-09-17/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2012/2012-05/_changes">
+    <rdf:_1 rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-09-17/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2012/2012-05"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
   </rdf:Description>
 </rdf:RDF>

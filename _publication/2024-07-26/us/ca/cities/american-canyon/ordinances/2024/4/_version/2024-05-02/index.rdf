@@ -1,30 +1,28 @@
 <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-  <rdf:Description rdf:about="./_publication/2024-07-26/_date/2024-05-02/us/ca/cities/american-canyon/ordinances/2024/4">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-02/us/ca/cities/american-canyon/ordinances/2024/4">
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-07-26</dcterms:available>
     <dcterms:creator xml:lang="en">City of American Canyon, California</dcterms:creator>
-    <dcterms:hasFormat rdf:resource="us/ca/cities/american-canyon/ordinances/2024/4/us/ca/cities/american-canyon/ordinances/2024/adopted/2024-04.pdf"/>
-    <dcterms:isVersionOf rdf:resource="./_publication/2024-07-26//us/ca/cities/american-canyon/ordinances/2024/4"/>
+    <dcterms:hasFormat rdf:resource="https://law.cityofamericancanyon.org/us/ca/cities/american-canyon/ordinances/2024/4/us/ca/cities/american-canyon/ordinances/2024/adopted/2024-04.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-07-26/us/ca/cities/american-canyon/ordinances/2024/4"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Ord. No. 2024-04. AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON AMENDING THE AMERICAN CANYON MUNICIPAL CODE TO UPDATE CHAPTER 19.39 "ACCESSORY DWELLING UNITS" AND ADDITIONAL AMENDMENTS CONSISTENT WITH CURRENT STATE LAW AND HOUSING ELEMENT IMPLEMENTATION PROGRAM C.</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
     <rdfs:label xml:lang="en">[2024-07-26/2024-05-02]: City of American Canyon, Cal., Ord. No. 2024-04</rdfs:label>
     <oll:buildReason xml:lang="en">effective</oll:buildReason>
+    <oll:cite xml:lang="en"/>
     <oll:codifiedDate>2024-05-02</oll:codifiedDate>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-05-02</oll:dateEffective>
     <oll:docId>City of American Canyon, Cal., Ord. No. 2024-04</oll:docId>
-    <oll:hasChanges rdf:resource="_publication/2024-07-26/_date/2024-05-02/us/ca/cities/american-canyon/ordinances/2024/4/_changes"/>
-    <oll:isPartOfPublication rdf:resource="./_publication/2024-07-26"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-07-26/_date/2024-05-02/us/ca/cities/american-canyon/ordinances/2024/4">
-    <oll:cite xml:lang="en"/>
     <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2024-04|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-02/us/ca/cities/american-canyon/ordinances/2024/4/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-07-26"/>
     <oll:ptag xml:lang="en">document</oll:ptag>
     <oll:status xml:lang="en">Element effective</oll:status>
     <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2024/4</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-07-26/_date/2024-05-02/us/ca/cities/american-canyon/ordinances/2024/4/_changes">
-    <rdf:_1 rdf:resource="_publication/2024-07-26/_date/2024-05-02/us/ca/cities/american-canyon/ordinances/2024/4"/>
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-02/us/ca/cities/american-canyon/ordinances/2024/4/_changes">
+    <rdf:_1 rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-02/us/ca/cities/american-canyon/ordinances/2024/4"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
   </rdf:Description>
 </rdf:RDF>

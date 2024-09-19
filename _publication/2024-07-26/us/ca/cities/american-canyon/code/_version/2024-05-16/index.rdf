@@ -1,8 +1,8 @@
 <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-  <rdf:Description rdf:about="./_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code">
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-07-26</dcterms:available>
     <dcterms:creator xml:lang="en">City of American Canyon, California</dcterms:creator>
-    <dcterms:isVersionOf rdf:resource="./_publication/2024-07-26//us/ca/cities/american-canyon/code"/>
+    <dcterms:isVersionOf rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-07-26/us/ca/cities/american-canyon/code"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:tableOfContents>
 Title 1 GENERAL PROVISIONS(§§ 1.01.010 – 1.28.070)
@@ -32,75 +32,75 @@ Title 19 ZONING(§§ 19.01.010 – 19.51.060)
     <oll:codifiedDate>2024-05-16</oll:codifiedDate>
     <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-05-16</oll:dateCurrentThrough>
     <oll:docId>City of American Canyon, Cal., Code</oll:docId>
-    <oll:hasChanges rdf:resource="_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/_changes"/>
-    <oll:isPartOfPublication rdf:resource="./_publication/2024-07-26"/>
-    <oll:lastCodifiedDocument rdf:resource="None/_publication/2024-07-26/us/ca/cities/american-canyon/ordinances/2024/5"/>
+    <oll:hasChanges rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-07-26"/>
+    <oll:lastCodifiedDocument rdf:resource="https://law.cityofamericancanyon.org//_publication/2024-07-26/us/ca/cities/american-canyon/ordinances/2024/5"/>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/13.06.030">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/13.06.030">
     <oll:cite xml:lang="en">Section 13.06.030</oll:cite>
     <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|13|13.06|13.06.030|</oll:documentMaterializedPath>
     <oll:ptag xml:lang="en">section</oll:ptag>
     <oll:status xml:lang="en">Element changed</oll:status>
     <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/13.06.030</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/13.06.040">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/13.06.040">
     <oll:cite xml:lang="en">Section 13.06.040</oll:cite>
     <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|13|13.06|13.06.040|</oll:documentMaterializedPath>
     <oll:ptag xml:lang="en">section</oll:ptag>
     <oll:status xml:lang="en">Element changed</oll:status>
     <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/13.06.040</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/13.14.065">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/13.14.065">
     <oll:cite xml:lang="en">Section 13.14.065</oll:cite>
     <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|13|13.14|13.14.065|</oll:documentMaterializedPath>
     <oll:ptag xml:lang="en">section</oll:ptag>
     <oll:status xml:lang="en">Element changed</oll:status>
     <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/13.14.065</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/13.14.100">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/13.14.100">
     <oll:cite xml:lang="en">Section 13.14.100</oll:cite>
     <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|13|13.14|13.14.100|</oll:documentMaterializedPath>
     <oll:ptag xml:lang="en">section</oll:ptag>
     <oll:status xml:lang="en">Element changed</oll:status>
     <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/13.14.100</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/14.04.020">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/14.04.020">
     <oll:cite xml:lang="en">Section 14.04.020</oll:cite>
     <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|14|1|14.04|14.04.020|</oll:documentMaterializedPath>
     <oll:ptag xml:lang="en">section</oll:ptag>
     <oll:status xml:lang="en">Element changed</oll:status>
     <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/14.04.020</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/14.04.030">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/14.04.030">
     <oll:cite xml:lang="en">Section 14.04.030</oll:cite>
     <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|14|1|14.04|14.04.030|</oll:documentMaterializedPath>
     <oll:ptag xml:lang="en">section</oll:ptag>
     <oll:status xml:lang="en">Element changed</oll:status>
     <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/14.04.030</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/14.04.040">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/14.04.040">
     <oll:cite xml:lang="en">Section 14.04.040</oll:cite>
     <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|14|1|14.04|14.04.040|</oll:documentMaterializedPath>
     <oll:ptag xml:lang="en">section</oll:ptag>
     <oll:status xml:lang="en">Element changed</oll:status>
     <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/14.04.040</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/14.04.050">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/14.04.050">
     <oll:cite xml:lang="en">Section 14.04.050</oll:cite>
     <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Code|14|1|14.04|14.04.050|</oll:documentMaterializedPath>
     <oll:ptag xml:lang="en">section</oll:ptag>
     <oll:status xml:lang="en">Element changed</oll:status>
     <oll:url xml:lang="en">/us/ca/cities/american-canyon/code/14.04.050</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/_changes">
-    <rdf:_1 rdf:resource="_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/13.06.030"/>
-    <rdf:_2 rdf:resource="_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/13.06.040"/>
-    <rdf:_3 rdf:resource="_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/13.14.065"/>
-    <rdf:_4 rdf:resource="_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/13.14.100"/>
-    <rdf:_5 rdf:resource="_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/14.04.020"/>
-    <rdf:_6 rdf:resource="_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/14.04.030"/>
-    <rdf:_7 rdf:resource="_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/14.04.040"/>
-    <rdf:_8 rdf:resource="_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/14.04.050"/>
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/_changes">
+    <rdf:_1 rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/13.06.030"/>
+    <rdf:_2 rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/13.06.040"/>
+    <rdf:_3 rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/13.14.065"/>
+    <rdf:_4 rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/13.14.100"/>
+    <rdf:_5 rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/14.04.020"/>
+    <rdf:_6 rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/14.04.030"/>
+    <rdf:_7 rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/14.04.040"/>
+    <rdf:_8 rdf:resource="https://law.cityofamericancanyon.org/_publication/2024-07-26/_date/2024-05-16/us/ca/cities/american-canyon/code/14.04.050"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
   </rdf:Description>
 </rdf:RDF>

@@ -1,62 +1,60 @@
 <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-  <rdf:Description rdf:about="./_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6">
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-19</dcterms:available>
     <dcterms:creator xml:lang="en">City of American Canyon, California</dcterms:creator>
-    <dcterms:hasFormat rdf:resource="us/ca/cities/american-canyon/ordinances/2022/6/us/ca/cities/american-canyon/ordinances/2022/adopted/2022-06.pdf"/>
-    <dcterms:isVersionOf rdf:resource="./_publication/2023-12-19//us/ca/cities/american-canyon/ordinances/2022/6"/>
+    <dcterms:hasFormat rdf:resource="https://law.cityofamericancanyon.org/us/ca/cities/american-canyon/ordinances/2022/6/us/ca/cities/american-canyon/ordinances/2022/adopted/2022-06.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.cityofamericancanyon.org/_publication/2023-12-19/us/ca/cities/american-canyon/ordinances/2022/6"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Ord. No. 2022-06. AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON REPEAL AND REPLACE CHAPTER 13.14.01 THROUGH 13.14.140 OF THE AMERICAN CANYON MUNICIPAL CODE.</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
     <rdfs:label xml:lang="en">[2023-12-19/2023-06-01]: City of American Canyon, Cal., Ord. No. 2022-06</rdfs:label>
+    <oll:cite xml:lang="en"/>
     <oll:codifiedDate>2023-06-01</oll:codifiedDate>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-01-05</oll:dateEffective>
     <oll:docId>City of American Canyon, Cal., Ord. No. 2022-06</oll:docId>
-    <oll:hasChanges rdf:resource="_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6/_changes"/>
-    <oll:isPartOfPublication rdf:resource="./_publication/2023-12-19"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6">
-    <oll:cite xml:lang="en"/>
     <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-06|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.cityofamericancanyon.org/_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.cityofamericancanyon.org/_publication/2023-12-19"/>
     <oll:ptag xml:lang="en">document</oll:ptag>
     <oll:status xml:lang="en">Element added</oll:status>
     <oll:status xml:lang="en">Element effective</oll:status>
     <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/6</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6#1">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6#1">
     <oll:cite xml:lang="en">Section 1</oll:cite>
     <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-06|1|</oll:documentMaterializedPath>
     <oll:ptag xml:lang="en">section</oll:ptag>
     <oll:status xml:lang="en">Element added</oll:status>
     <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/6#1</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6#2">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6#2">
     <oll:cite xml:lang="en">Section 2</oll:cite>
     <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-06|2|</oll:documentMaterializedPath>
     <oll:ptag xml:lang="en">section</oll:ptag>
     <oll:status xml:lang="en">Element added</oll:status>
     <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/6#2</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6#3">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6#3">
     <oll:cite xml:lang="en">Section 3</oll:cite>
     <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-06|3|</oll:documentMaterializedPath>
     <oll:ptag xml:lang="en">section</oll:ptag>
     <oll:status xml:lang="en">Element added</oll:status>
     <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/6#3</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6#4">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6#4">
     <oll:cite xml:lang="en">Section 4</oll:cite>
     <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2022-06|4|</oll:documentMaterializedPath>
     <oll:ptag xml:lang="en">section</oll:ptag>
     <oll:status xml:lang="en">Element added</oll:status>
     <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2022/6#4</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6/_changes">
-    <rdf:_1 rdf:resource="_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6"/>
-    <rdf:_2 rdf:resource="_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6#1"/>
-    <rdf:_3 rdf:resource="_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6#2"/>
-    <rdf:_4 rdf:resource="_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6#3"/>
-    <rdf:_5 rdf:resource="_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6#4"/>
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6/_changes">
+    <rdf:_1 rdf:resource="https://law.cityofamericancanyon.org/_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6"/>
+    <rdf:_2 rdf:resource="https://law.cityofamericancanyon.org/_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6#1"/>
+    <rdf:_3 rdf:resource="https://law.cityofamericancanyon.org/_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6#2"/>
+    <rdf:_4 rdf:resource="https://law.cityofamericancanyon.org/_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6#3"/>
+    <rdf:_5 rdf:resource="https://law.cityofamericancanyon.org/_publication/2023-12-19/_date/2023-06-01/us/ca/cities/american-canyon/ordinances/2022/6#4"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
   </rdf:Description>
 </rdf:RDF>
