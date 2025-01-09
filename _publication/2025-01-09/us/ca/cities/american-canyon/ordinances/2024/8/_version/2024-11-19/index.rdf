@@ -1,0 +1,78 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2025-01-09/_date/2024-11-19/us/ca/cities/american-canyon/ordinances/2024/8">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-01-09</dcterms:available>
+    <dcterms:creator xml:lang="en">City of American Canyon, California</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.cityofamericancanyon.org/us/ca/cities/american-canyon/ordinances/2024/8/us/ca/cities/american-canyon/ordinances/2024/adopted/2024-08.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.cityofamericancanyon.org/_publication/2025-01-09/us/ca/cities/american-canyon/ordinances/2024/8"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Ord. No. 2024-08. AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON REPEALING AND REPLACING AMERICAN CANYON MUNICIPAL CODE CHAPTER 2.04.050 AND ESTABLISHING A CITY COUNCIL CODE OF CONDUCT AND GOVERNANCE PROTOCOL.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
+    <rdfs:label xml:lang="en">[2025-01-09/2024-11-19]: City of American Canyon, Cal., Ord. No. 2024-08</rdfs:label>
+    <oll:buildReason xml:lang="en">created</oll:buildReason>
+    <oll:buildReason xml:lang="en">effective</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-11-19</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-19</oll:dateEffective>
+    <oll:docId>City of American Canyon, Cal., Ord. No. 2024-08</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2024-08|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.cityofamericancanyon.org/_publication/2025-01-09/_date/2024-11-19/us/ca/cities/american-canyon/ordinances/2024/8/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.cityofamericancanyon.org/_publication/2025-01-09"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2024/8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2025-01-09/_date/2024-11-19/us/ca/cities/american-canyon/ordinances/2024/8#1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2024-08|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2024/8#1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2025-01-09/_date/2024-11-19/us/ca/cities/american-canyon/ordinances/2024/8#2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2024-08|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2024/8#2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2025-01-09/_date/2024-11-19/us/ca/cities/american-canyon/ordinances/2024/8#3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2024-08|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2024/8#3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2025-01-09/_date/2024-11-19/us/ca/cities/american-canyon/ordinances/2024/8#4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2024-08|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2024/8#4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2025-01-09/_date/2024-11-19/us/ca/cities/american-canyon/ordinances/2024/8#5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2024-08|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2024/8#5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2025-01-09/_date/2024-11-19/us/ca/cities/american-canyon/ordinances/2024/8#6">
+    <oll:cite xml:lang="en">Section 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2024-08|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2024/8#6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2025-01-09/_date/2024-11-19/us/ca/cities/american-canyon/ordinances/2024/8/_changes">
+    <rdf:_1 rdf:resource="https://law.cityofamericancanyon.org/_publication/2025-01-09/_date/2024-11-19/us/ca/cities/american-canyon/ordinances/2024/8"/>
+    <rdf:_2 rdf:resource="https://law.cityofamericancanyon.org/_publication/2025-01-09/_date/2024-11-19/us/ca/cities/american-canyon/ordinances/2024/8#1"/>
+    <rdf:_3 rdf:resource="https://law.cityofamericancanyon.org/_publication/2025-01-09/_date/2024-11-19/us/ca/cities/american-canyon/ordinances/2024/8#2"/>
+    <rdf:_4 rdf:resource="https://law.cityofamericancanyon.org/_publication/2025-01-09/_date/2024-11-19/us/ca/cities/american-canyon/ordinances/2024/8#3"/>
+    <rdf:_5 rdf:resource="https://law.cityofamericancanyon.org/_publication/2025-01-09/_date/2024-11-19/us/ca/cities/american-canyon/ordinances/2024/8#4"/>
+    <rdf:_6 rdf:resource="https://law.cityofamericancanyon.org/_publication/2025-01-09/_date/2024-11-19/us/ca/cities/american-canyon/ordinances/2024/8#5"/>
+    <rdf:_7 rdf:resource="https://law.cityofamericancanyon.org/_publication/2025-01-09/_date/2024-11-19/us/ca/cities/american-canyon/ordinances/2024/8#6"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
