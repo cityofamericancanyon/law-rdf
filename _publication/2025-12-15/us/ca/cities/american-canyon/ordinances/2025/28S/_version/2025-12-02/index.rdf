@@ -1,0 +1,28 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2025-12-15/_date/2025-12-02/us/ca/cities/american-canyon/ordinances/2025/28S">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-12-15</dcterms:available>
+    <dcterms:creator xml:lang="en">City of American Canyon, California</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.cityofamericancanyon.org/us/ca/cities/american-canyon/ordinances/2025/28S/us/ca/cities/american-canyon/ordinances/2025/adopted/2025-28S.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.cityofamericancanyon.org/_publication/2025-12-15/us/ca/cities/american-canyon/ordinances/2025/28S"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Ord. No. 2025-28S. SUMMARY OF AN ORDINANCE AMENDING AMERICAN CANYON MUNICIPAL CODE TITLE 16 TO REPEAL AND REPLACE THE 2022 CALIFORNIA BUILDING STANDARDS CODE WITH THE 2025 EDITION WITH LOCAL AMENDMENTS; AND REPEAL AND REPLACE THE 2021 INTERNATIONAL PROPERTY MAINTENANCE CODE WITH THE 2024 EDITION AND RELATED MODEL CODES WITH APPENDICES AND AMENDMENTS AS IDENTIFIED THROUGH EXPRESS FINDINGS OF LOCAL NECESSITY</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
+    <rdfs:label xml:lang="en">[2025-12-15/2025-12-02]: City of American Canyon, Cal., Ord. No. 2025-28S</rdfs:label>
+    <oll:buildReason xml:lang="en">created</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2025-12-02</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-01-01</oll:dateEffective>
+    <oll:docId>City of American Canyon, Cal., Ord. No. 2025-28S</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2025-28S|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.cityofamericancanyon.org/_publication/2025-12-15/_date/2025-12-02/us/ca/cities/american-canyon/ordinances/2025/28S/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.cityofamericancanyon.org/_publication/2025-12-15"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2025/28S</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2025-12-15/_date/2025-12-02/us/ca/cities/american-canyon/ordinances/2025/28S/_changes">
+    <rdf:_1 rdf:resource="https://law.cityofamericancanyon.org/_publication/2025-12-15/_date/2025-12-02/us/ca/cities/american-canyon/ordinances/2025/28S"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
