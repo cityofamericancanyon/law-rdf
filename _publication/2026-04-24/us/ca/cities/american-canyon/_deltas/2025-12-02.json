@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2025",
+      "url": "/us/ca/cities/american-canyon/ordinances/2025",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2025|",
+      "docs_changes": {
+        "City of American Canyon, Cal., Ord. No. 2025-28S": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2025-28S",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2025/28S",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2025-28S|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2025|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-04-24",
+  "codified_date": "2025-12-02",
+  "reasons": {
+    "City of American Canyon, Cal., Ord. No. 2025-28S": [
+      "created"
+    ]
+  }
+}
