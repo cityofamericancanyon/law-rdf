@@ -1,0 +1,28 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2026-10-15/_date/2026-10-01/us/ca/cities/american-canyon/ordinances/2026/1">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-10-15</dcterms:available>
+    <dcterms:creator xml:lang="en">City of American Canyon, California</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.cityofamericancanyon.org/us/ca/cities/american-canyon/ordinances/2026/1/us/ca/cities/american-canyon/ordinances/2026/adopted/2026-01.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.cityofamericancanyon.org/_publication/2026-10-15/us/ca/cities/american-canyon/ordinances/2026/1"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Ord. No. 2026-01. AN ORDINANCE OF THE CITY COUNCIL OF AMERICAN CANYON ADDING CHAPTER 13.08 TO TITLE 13 OF THE AMERICAN CANYON MUNICIPAL CODE RELATING TO BACKFLOW PREVENTION AND CROSS-CONNECTION CONTROL; AMENDING CHAPTER 13.04 RELATING TO WATER SERVICE SYSTEMS; AMENDING CHAPTER 13.06 RELATING TO WATER RATES AND CONNECTION FEES; AMENDING SECTION 16.14.080 RELATING TO WATER EFFICIENT LANDSCAPING; AMENDING SECTION 19.51.060 RELATING TO STANDARD CONDITIONS OF APPROVAL; AMENDING TITLE 14 RELATING TO SEWER AND SANITATION SERVICES; AND AMENDING TITLE 1 RELATING TO GENERAL PROVISIONS</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
+    <rdfs:label xml:lang="en">[2026-10-15/2026-10-01]: City of American Canyon, Cal., Ord. No. 2026-01</rdfs:label>
+    <oll:buildReason xml:lang="en">effective</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2026-10-01</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-10-01</oll:dateEffective>
+    <oll:docId>City of American Canyon, Cal., Ord. No. 2026-01</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">City of American Canyon, Cal., Ord. No. 2026-01|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.cityofamericancanyon.org/_publication/2026-10-15/_date/2026-10-01/us/ca/cities/american-canyon/ordinances/2026/1/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.cityofamericancanyon.org/_publication/2026-10-15"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/american-canyon/ordinances/2026/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofamericancanyon.org/_publication/2026-10-15/_date/2026-10-01/us/ca/cities/american-canyon/ordinances/2026/1/_changes">
+    <rdf:_1 rdf:resource="https://law.cityofamericancanyon.org/_publication/2026-10-15/_date/2026-10-01/us/ca/cities/american-canyon/ordinances/2026/1"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
