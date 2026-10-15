@@ -1,0 +1,602 @@
+{
+  "data": [
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.05.090",
+      "ptag": "section",
+      "cite": "Section 19.05.090",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.05.090",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|1|19.05|19.05.090|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.05.100",
+      "ptag": "section",
+      "cite": "Section 19.05.100",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.05.100",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|1|19.05|19.05.100|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.10.040",
+      "ptag": "section",
+      "cite": "Section 19.10.040",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.10.040",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.10|19.10.040|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.27.000",
+      "ptag": "section",
+      "cite": "Section 19.27.000",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.27.000",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.27|19.27.000|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.27.005",
+      "ptag": "section",
+      "cite": "Section 19.27.005",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.27.005",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.27|19.27.005|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.27.010",
+      "ptag": "section",
+      "cite": "Section 19.27.010",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.27.010",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.27|19.27.010|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.27.015",
+      "ptag": "section",
+      "cite": "Section 19.27.015",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.27.015",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.27|19.27.015|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.27.020",
+      "ptag": "section",
+      "cite": "Section 19.27.020",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.27.020",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.27|19.27.020|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.27.025",
+      "ptag": "section",
+      "cite": "Section 19.27.025",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.27.025",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.27|19.27.025|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.27.030",
+      "ptag": "section",
+      "cite": "Section 19.27.030",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.27.030",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.27|19.27.030|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.27.035",
+      "ptag": "section",
+      "cite": "Section 19.27.035",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.27.035",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.27|19.27.035|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.27.040",
+      "ptag": "section",
+      "cite": "Section 19.27.040",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.27.040",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.27|19.27.040|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.27.045",
+      "ptag": "section",
+      "cite": "Section 19.27.045",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.27.045",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.27|19.27.045|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.27.050",
+      "ptag": "section",
+      "cite": "Section 19.27.050",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.27.050",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.27|19.27.050|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.27.060",
+      "ptag": "section",
+      "cite": "Section 19.27.060",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.27.060",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.27|19.27.060|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.28.010",
+      "ptag": "section",
+      "cite": "Section 19.28.010",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.28.010",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.28|19.28.010|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.28.020",
+      "ptag": "section",
+      "cite": "Section 19.28.020",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.28.020",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.28|19.28.020|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.28.030",
+      "ptag": "section",
+      "cite": "Section 19.28.030",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.28.030",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.28|19.28.030|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.28.040",
+      "ptag": "section",
+      "cite": "Section 19.28.040",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.28.040",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.28|19.28.040|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.28.050",
+      "ptag": "section",
+      "cite": "Section 19.28.050",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.28.050",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.28|19.28.050|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.28.060",
+      "ptag": "section",
+      "cite": "Section 19.28.060",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.28.060",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.28|19.28.060|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.28.070",
+      "ptag": "section",
+      "cite": "Section 19.28.070",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.28.070",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.28|19.28.070|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.28.080",
+      "ptag": "section",
+      "cite": "Section 19.28.080",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.28.080",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.28|19.28.080|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.28.090",
+      "ptag": "section",
+      "cite": "Section 19.28.090",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.28.090",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.28|19.28.090|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.28.100",
+      "ptag": "section",
+      "cite": "Section 19.28.100",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.28.100",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.28|19.28.100|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.31.020",
+      "ptag": "section",
+      "cite": "Section 19.31.020",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.31.020",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.31|19.31.020|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.39.010",
+      "ptag": "section",
+      "cite": "Section 19.39.010",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.39.010",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.39|19.39.010|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.39.020",
+      "ptag": "section",
+      "cite": "Section 19.39.020",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.39.020",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.39|19.39.020|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.39.030",
+      "ptag": "section",
+      "cite": "Section 19.39.030",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.39.030",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.39|19.39.030|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.39.040",
+      "ptag": "section",
+      "cite": "Section 19.39.040",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.39.040",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.39|19.39.040|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.39.050",
+      "ptag": "section",
+      "cite": "Section 19.39.050",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.39.050",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.39|19.39.050|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.39.060",
+      "ptag": "section",
+      "cite": "Section 19.39.060",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.39.060",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.39|19.39.060|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.39.070",
+      "ptag": "section",
+      "cite": "Section 19.39.070",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.39.070",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.39|19.39.070|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.39.080",
+      "ptag": "section",
+      "cite": "Section 19.39.080",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.39.080",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.39|19.39.080|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.39.090",
+      "ptag": "section",
+      "cite": "Section 19.39.090",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.39.090",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.39|19.39.090|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.39.100",
+      "ptag": "section",
+      "cite": "Section 19.39.100",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.39.100",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.39|19.39.100|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.39.110",
+      "ptag": "section",
+      "cite": "Section 19.39.110",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.39.110",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.39|19.39.110|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.39.120",
+      "ptag": "section",
+      "cite": "Section 19.39.120",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.39.120",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|2|19.39|19.39.120|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.50.010",
+      "ptag": "section",
+      "cite": "Section 19.50.010",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.50.010",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|3|19.50|19.50.010|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.50.020",
+      "ptag": "section",
+      "cite": "Section 19.50.020",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.50.020",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|3|19.50|19.50.020|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.50.030",
+      "ptag": "section",
+      "cite": "Section 19.50.030",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.50.030",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|3|19.50|19.50.030|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Code",
+      "path": "|19.50.040",
+      "ptag": "section",
+      "cite": "Section 19.50.040",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/american-canyon/code/19.50.040",
+      "doc_mpath": "City of American Canyon, Cal., Code|19|3|19.50|19.50.040|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2026-02",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2026/2",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2026-02|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2026|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2026-03",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2026/3",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2026-03|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2026|",
+      "reason": null
+    },
+    {
+      "doc": "City of American Canyon, Cal., Ord. No. 2026-04",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/american-canyon/ordinances/2026/4",
+      "doc_mpath": "City of American Canyon, Cal., Ord. No. 2026-04|",
+      "lib_mpath": "cityofamericancanyon/law-rdf|us/ca/cities/american-canyon/ordinances|2026|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-10-15",
+  "codified_date": "2026-10-15",
+  "reasons": {
+    "City of American Canyon, Cal., Ord. No. 2026-02": [
+      "effective"
+    ],
+    "City of American Canyon, Cal., Ord. No. 2026-03": [
+      "effective"
+    ],
+    "City of American Canyon, Cal., Ord. No. 2026-04": [
+      "effective"
+    ]
+  }
+}
